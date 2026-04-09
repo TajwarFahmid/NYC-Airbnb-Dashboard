@@ -8,6 +8,6 @@ st.title("NYC Airbnb Dashboard")
 
 # Replace the URL below with your actual Tableau Share Link
 # Make sure it has ?:embed=yes at the end!
-tableau_url = "https://public.tableau.com/views/project_17756312871780/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link?:embed=yes"
+tableau_url = "tableau_url = "https://public.tableau.com/views/project_17756312871780/Dashboard1?:embed=yes&:showVizHome=no""
 
 components.iframe(tableau_url, height=800, scrolling=True)
