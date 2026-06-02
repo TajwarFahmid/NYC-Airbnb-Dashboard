@@ -1,12 +1,13 @@
 📊 NYC Airbnb Market Analysis Dashboard (Tableau)
 
-An interactive, enterprise-grade business intelligence dashboard designed to decode the pricing dynamics, spatial distributions, and host configurations of the New York City Airbnb marketplace.
+An interactive, enterprise-grade business intelligence dashboard designed to decode the pricing dynamics, distributions, and host configurations of the New York City Airbnb marketplace.
 This repository houses the data pipeline documentation, underlying schema design, and analytical framework for the live dashboard hosted permanently on Tableau Public.
 
-🎯 Executive Summary & Core Intent
+🎯 Summary & Core Intent
 
 Navigating NYC's short-term rental market presents distinct challenges for prospective hosts, property managers, and urban researchers due to vast structural variances across the five boroughs. The true intent of this dashboard is to transform millions of rows of granular, messy reservation and property metrics into high-impact, scannable market intelligence.
-By utilizing dynamic filtering frameworks, users can instantly stress-test listing strategies, isolate high-yielding neighborhoods, examine host configurations, and identify premium pricing anomalies across the city.
+
+On the other side of that coin is the perspective of prospective travellers planning to visit NYC, looking for a place to stay for their tenure. Using the interactive traveller's dashbord, users can find the perfect place to stay based on their individual needs filtering by borough, price, or no. of bedrooms of the listing.
 
 Data Normalization & Modeling:
 
